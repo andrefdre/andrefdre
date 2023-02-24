@@ -33,12 +33,3 @@ I'm Passionate in machine learning and robotics. Currently, in Masters at the Un
  ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-   
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefdre&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
