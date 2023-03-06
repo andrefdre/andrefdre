@@ -17,7 +17,7 @@ As a highly motivated and skilled individual, my passion for the fields of **mac
 
 <p float="left" style="text-align: center;">
   <img src="barcelparts.png" width="47%" />
-  <img src="car.jpg" width="47%"/> 
+  <img src="car.jpg" width="47%" height="200px"/> 
 </p>
 
 ## Programming Languages:
