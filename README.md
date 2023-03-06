@@ -1,9 +1,24 @@
+<img src="portfolio.svg" alt="MarineGEO circle logo"/>
+
+
 # About Me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-cardoso-8bb264223/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andrefdre@gmail.com) 
 
 
-I'm Passionate in machine learning and robotics. Currently, in Masters at the University of Aveiro.<br>Previous works include Object classification in a scene, Website development(backend and frontend) and an autonomous car.<br> 
+As a highly motivated and skilled individual, my passion for the fields of **machine learning** and **robotics** drives me to constantly stay abreast of the latest advancements and innovative technologies.
+
+<br>Previous works include Object classification in a scene, Website development(backend and frontend) and an autonomous car.<br> 
+
+<p float="left" style="text-align: center;">
+  <img src="synfeal.svg" width="47%" />
+  <img src="dora.png" width="47%" /> 
+</p>
+
+<p float="left" style="text-align: center;">
+  <img src="barcelparts.png" width="47%" />
+  <img src="car.jpg" width="47%" height="155px"/> 
+</p>
 
 ## Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -14,6 +29,10 @@ I'm Passionate in machine learning and robotics. Currently, in Masters at the Un
 ## Cloud and deployment:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Robotics:
+ ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+ ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ## Machine Learning:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -29,6 +48,4 @@ I'm Passionate in machine learning and robotics. Currently, in Masters at the Un
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Other tools
- ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
