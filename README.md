@@ -1,9 +1,11 @@
+<h2 align="left">Hi 👋! My name is André Cardoso.</h2>
+
 <img src="portfolio.svg" alt="MarineGEO circle logo"/>
 
 
 # About Me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-cardoso-8bb264223/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andrefdre@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrefdre@gmail.com) 
 
 
 As a highly motivated and skilled individual, my passion for the fields of **machine learning** and **robotics** drives me to constantly stay abreast of the latest advancements and innovative technologies.
@@ -11,7 +13,7 @@ As a highly motivated and skilled individual, my passion for the fields of **mac
 <br>Previous works include Object classification in a scene, Website development(backend and frontend) and an autonomous car.<br> 
 
 <p float="left" style="text-align: center;">
-  <img src="synfeal.svg" width="47%" />
+  <img src="santuario_objects_lights.jpg" width="47%" />
   <img src="dora.png" width="47%" /> 
 </p>
 
